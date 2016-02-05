@@ -54,10 +54,14 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
-  text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #19C2FF;
+	background-image: -webkit-linear-gradient(330deg,rgba(91,173,255,1.00) 0%,rgba(0,83,232,1.00) 100%);
+	background-image: -moz-linear-gradient(330deg,rgba(91,173,255,1.00) 0%,rgba(0,83,232,1.00) 100%);
+	background-image: -o-linear-gradient(330deg,rgba(91,173,255,1.00) 0%,rgba(0,83,232,1.00) 100%);
+	background-image: linear-gradient(120deg,rgba(91,173,255,1.00) 0%,rgba(0,83,232,1.00) 100%);
+}
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -109,10 +113,11 @@ a {
 .main-content img {
   max-width: 100%; }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: normal;
-  color: #159957; }
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	font-weight: normal;
+	color: #00BB26;
+}
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -133,14 +138,15 @@ a {
   border: solid 1px #dce6f0;
   border-radius: 0.3rem; }
   .main-content pre > code {
-    padding: 0;
-    margin: 0;
-    font-size: 0.9rem;
-    color: #567482;
-    word-break: normal;
-    white-space: pre;
-    background: transparent;
-    border: 0; }
+	padding: 0;
+	margin: 0;
+	font-size: 0.9rem;
+	color: #B8393B;
+	word-break: normal;
+	white-space: pre;
+	background: transparent;
+	border: 0;
+}
 .main-content .highlight {
   margin-bottom: 1rem; }
   .main-content .highlight pre {
