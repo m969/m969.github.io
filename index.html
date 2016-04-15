@@ -31,7 +31,7 @@
 <p></p>
 <p>开放的策划文档</p>
 <p>小杨的idea：</p>
-    <iframe src="./idea/xiaoyang.txt" name=iframe1></iframe>
+    <iframe src="./idea/xiaoyang.txt" name=iframe1 frameborder="0" scrolling="no" onload="Javascript:SetCwinHeight(this)"></iframe>
     <div id="div1" class="divclass"></div>
     <script>
       var txtval=ifram1.body.innerText;
@@ -64,4 +64,21 @@
     </section>
   
   </body>
+  
+  <script type="text/javascript">
+    function SetCwinHeight(obj)
+    {
+      var cwin=obj;
+      if (document.getElementById)
+      {
+        if (cwin && !window.opera)
+        {
+          if (cwin.contentDocument && cwin.contentDocument.body.offsetHeight)
+            cwin.height = cwin.contentDocument.body.offsetHeight; 
+          else if(cwin.Document && cwin.Document.body.scrollHeight)
+            cwin.height = cwin.Document.body.scrollHeight;
+        }
+      }
+    }
+  </script>
 </html>
