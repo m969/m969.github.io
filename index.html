@@ -19,15 +19,15 @@
     <script language="javascript">
       function SetCwinHeight(obj)
       {
-        var cwin=obj;
+        var iframe1=obj;
         if (document.getElementById)
         {
-          if (cwin && !window.opera)
+          if (iframe1 && !window.opera)
           {
-            if (cwin.contentDocument && cwin.contentDocument.body.offsetHeight)
-              cwin.height = cwin.contentDocument.body.offsetHeight; 
-            else if(cwin.Document && cwin.Document.body.scrollHeight)
-              cwin.height = cwin.Document.body.scrollHeight;
+            if (iframe1.contentDocument && iframe1.contentDocument.body.offsetHeight)
+              iframe1.height = iframe1.contentDocument.body.offsetHeight; 
+            else if(iframe1.Document && iframe1.Document.body.scrollHeight)
+              iframe1.height = iframe1.Document.body.scrollHeight;
           }
         }
       }
