@@ -1,10 +1,10 @@
-﻿Ver:5|FileCount:95
+﻿Ver:6|FileCount:95
 HuanHuo.exe|WbT5OYJFz7l/iSm9Tsb00XQtjqQ=@18148864
 HuanHuo_Data/app.info|lbVjlhCHxDZCWSSXMzWusPmz7Ro=@16
 HuanHuo_Data/globalgamemanagers|Lm+FU4cQYInOiURqiIb9AEwv8xA=@34276
 HuanHuo_Data/globalgamemanagers.assets|f4sti/yT7oA5uLtrsCyiNdFVsb0=@57640
 HuanHuo_Data/level0|wth6anZqTiUs7JCy4auVmyNrIKk=@4672
-HuanHuo_Data/output_log.txt|2jmj7l5rSw0yVb/vlWAYkK/YBwk=@0
+HuanHuo_Data/output_log.txt|E/Vmokeq99/ZzwyPoaxbFABF8Qo=@6
 HuanHuo_Data/resources.assets|Gj9TrDo2UaiFio+FIcNUKNJs+/c=@4708
 HuanHuo_Data/resources.assets.resS|HtsS62cghSl6dy39gz/9UMAnZFw=@27616
 HuanHuo_Data/sharedassets0.assets|uTo/lMMEJ83JFtONn0ZCLecx2GQ=@15716
