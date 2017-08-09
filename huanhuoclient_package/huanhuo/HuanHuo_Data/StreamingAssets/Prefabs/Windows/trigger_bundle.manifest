@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 2006120765
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16fe9ea681f2ea34e71a9bdcf9e7337c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57e4723b4fc0e3f889482fd271143d7d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 87
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7daf7f756d6fbc4cb0c3d9dc0feb629, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/Trigger/MuJingGuaiSkill_Trigger.prefab
+- Assets/_Prefabs/Trigger/YanShiLingGuaiSkill_Trigger.prefab
+- Assets/_Prefabs/Trigger/CampTrigger.prefab
+- Assets/_Prefabs/Trigger/WolfSkill2_Trigger.prefab
+- Assets/_Prefabs/Trigger/GateWayTrigger.prefab
+- Assets/_Prefabs/Trigger/SkillQ_SkillTrajectory.prefab
+- Assets/_Prefabs/Trigger/WolfSkill1_Trigger.prefab
+- Assets/_Prefabs/Trigger/SkillW_SkillTrajectory.prefab
+- Assets/_Prefabs/Trigger/32_RFX_Magic_Rock1.prefab
+- Assets/_Prefabs/Trigger/SkillQ_Trigger.prefab
+- Assets/_Prefabs/Trigger/54_RFX_TinkerbellLight1.prefab
+- Assets/_Prefabs/Trigger/Trigger.prefab
+- Assets/_Prefabs/Trigger/SkillE_SkillTrajectory.prefab
+- Assets/_Prefabs/Trigger/SkillW_Trigger.prefab
+Dependencies: []

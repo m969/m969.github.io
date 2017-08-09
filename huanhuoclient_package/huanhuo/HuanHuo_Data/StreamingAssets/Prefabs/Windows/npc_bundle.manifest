@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 2677848412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48abae0680a17882f134c15a5c11570c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f64afc4656780d02481751118485f20
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6fce8bc86f581448a9843c6b7fa682f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/Npc/Meterials/NpcTargetObject_Mat 1.mat
+- Assets/_Prefabs/Npc/Npc01.prefab
+- Assets/_Prefabs/Npc/SelectObject.prefab
+- Assets/_Prefabs/Npc/Materials/1b7d65b0.mat
+- Assets/_Prefabs/Npc/Meterials/Cloth 2.mat
+- Assets/_Prefabs/Npc/Materials/d6bc3d0.mat
+- Assets/_Prefabs/Npc/Npc.prefab
+- Assets/_Prefabs/Npc/ShoucunrenNpc.prefab
+- Assets/_Prefabs/Npc/Materials/1b1a5ef0.mat
+- Assets/_Prefabs/Npc/StoreNpc.prefab
+- Assets/_Prefabs/Npc/Meterials/NpcTargetObject_Mat.mat
+- Assets/_Prefabs/Npc/Meterials/Cloth 1.mat
+- Assets/_Prefabs/Npc/XinShouYinDaoNpc.prefab
+- Assets/_Prefabs/Npc/Materials/1c6c98f0.mat
+- Assets/_Prefabs/Npc/zuanshi_shangren01.FBX
+- Assets/_Prefabs/Npc/Materials/1b4dd7d0.mat
+- Assets/_Prefabs/Npc/Meterials/StoreNpc_Mat.mat
+- Assets/_Prefabs/Npc/Zuanshi_shangren.prefab
+- Assets/_Prefabs/Npc/Meterials/NpcTargetObject_Mat 2.mat
+- Assets/_Prefabs/Npc/Meterials/NewbieGuide_Mat.mat
+Dependencies: []

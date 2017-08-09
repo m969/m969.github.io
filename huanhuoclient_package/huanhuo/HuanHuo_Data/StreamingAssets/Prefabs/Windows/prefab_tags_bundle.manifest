@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3368141526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e77a93ba5acaabe82e9d94ddffc7c3b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 220d8b276c6c10556eb0d3016a72c87b
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: e208e3ee9cad8244a807dd397c70a179, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/_PrefabTags/Npc.asset
+- Assets/_Prefabs/_PrefabTags/MuJingGuai.asset
+- Assets/_Prefabs/_PrefabTags/Avatar.asset
+Dependencies: []

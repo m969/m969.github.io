@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 1826653352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f545d00c3f833f0f7b02b28a82c993c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c2bd13a2e19d8d80acb1f09b2258d33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 87
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7daf7f756d6fbc4cb0c3d9dc0feb629, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 760e21c6793f79a4ea96b659e2823eb6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5adaa9a4c3fdef840a58462d041416de, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/MuJingGuaiSkill/MuJingGuaiSkill_Trigger.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/YanShiLingGuaiSkill/YanShiLingGuaiSkill_Trigger.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/GateWayTrigger/_GateWayTrigger.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/WolfSkill2/WolfSkill2_Trigger.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/GateWayTrigger/GateWayTrigger.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/SkillQ/SkillQ_SkillTrajectory.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/WolfSkill1/WolfSkill1_Trigger.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/SkillW/SkillW_SkillTrajectory.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/SkillW/32_RFX_Magic_Rock1.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/SkillQ/SkillQ_Trigger.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/MuJingGuaiSkill/54_RFX_TinkerbellLight1.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Trigger.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/SkillE/SkillE_SkillTrajectory.prefab
+- Assets/_Resources/Ours/_Prefabs/Trigger/Skill/SkillW/SkillW_Trigger.prefab
+Dependencies: []

@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 425436853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d78cf964f62a91c8918de244f549991f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa33ff3bd3ad6496e1b3a0c3e86bb8a9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Scenes/MuLingCunSpace/grass01.prefab
+- Assets/_Scenes/MuLingCunSpace/Directional Light.prefab
+- Assets/_Scenes/MuLingCunSpace/hills.prefab
+- Assets/_Scenes/MuLingCunSpace/tree_02 1.prefab
+- Assets/_Scenes/MuLingCunSpace/building_08 loded.prefab
+- Assets/_Scenes/MuLingCunSpace/store01.prefab
+- Assets/_Scenes/MuLingCunSpace/Zabor.prefab
+- Assets/_Scenes/MuLingCunSpace/trees1.prefab
+- Assets/_Scenes/MuLingCunSpace/pine_05.prefab
+- Assets/_Scenes/MuLingCunSpace/stones.prefab
+- Assets/_Scenes/MuLingCunSpace/tree_01 1.prefab
+- Assets/_Scenes/MuLingCunSpace/MainTerrain.prefab
+- Assets/_Scenes/MuLingCunSpace/trees4.prefab
+- Assets/_Scenes/MuLingCunSpace/Distant6a.prefab
+- Assets/_Scenes/MuLingCunSpace/trees3.prefab
+- Assets/_Scenes/MuLingCunSpace/tree5.prefab
+Dependencies: []

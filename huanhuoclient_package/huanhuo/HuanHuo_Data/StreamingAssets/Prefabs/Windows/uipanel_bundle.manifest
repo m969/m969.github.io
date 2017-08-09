@@ -1,0 +1,176 @@
+ManifestFileVersion: 0
+CRC: 3426799631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72361a415c14a32300bd95912d617aef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27ce0815a7d53bc4a81e06e867182739
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9ed3a40eddd50a49904f5ec245fb5dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38396de0bb532bb488b9ca3b97f627a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a50e2d212fa1b0345859eabd9b0cd11e, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24ed13f2907ef2d46b12547bb5e7c54d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54ae1c7338aa16942afdea8d2107c2bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7839a15794d174468c242c9460a796a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d3aa5e58aee45b4fb8be66b7413f544, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63f795e9a4b6fc443bb5f72fa020073e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec94b10a4c3bd3f408ff09f5fcd1bd2c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f64232bcc5f0fd4bb0cb3ff838ee391, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e686655b18c94734d9971e3294d2c3bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e83933bb52941d8488167e0def1d08fd, type: 3}
+- Class: 114
+  Script: {fileID: 40306178, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: edf2d7bc223347142b1616b1f2d887e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57ab2bcc173357744a3a20029adc1729, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90eb1fddc514bca42a89eb8dc2bfaa46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d62d34becf15d634dbb4cf8fbc85a474, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 565e638f16e3a9b4d9b264733380f91f, type: 3}
+- Class: 114
+  Script: {fileID: 1384774831, guid: 9754d4abda502c6458053d5ed8e4fc5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 795a2b835b0769f47a21559394de1a4c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/UiPanel/GoodsItems/3.prefab
+- Assets/_Prefabs/UiPanel/Panels/TheStorePanel.prefab
+- Assets/_Prefabs/UiPanel/Panels/3DEntityPanel.prefab
+- Assets/_Prefabs/UiPanel/Panels/Jc/GamePanel 1.prefab
+- Assets/_Prefabs/UiPanel/Panels/Jc/BagPanel 1.prefab
+- Assets/_Prefabs/UiPanel/Panels/EntityPanel.prefab
+- Assets/_Prefabs/UiPanel/Panels/Jc/StoreItem 1.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/6.prefab
+- Assets/_Prefabs/UiPanel/Panels/DeadPanel.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/1.prefab
+- Assets/_Prefabs/UiPanel/Panels/Jc/LoginPanel 1.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/10.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/11.prefab
+- Assets/_Prefabs/UiPanel/Panels/Jc/BagItem 1.prefab
+- Assets/_Prefabs/UiPanel/Panels/Jc/StorePanel 1.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/4.prefab
+- Assets/_Prefabs/UiPanel/Panels/DialogPanel.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/9.prefab
+- Assets/_Prefabs/UiPanel/Panels/CharacterInfoPanel.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/7.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/19.prefab
+- Assets/_Prefabs/UiPanel/Panels/LoginPanel.prefab
+- Assets/_Prefabs/UiPanel/Panels/StoreItem.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/14.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/8.prefab
+- Assets/_Prefabs/UiPanel/Panels/BagPanel.prefab
+- Assets/_Prefabs/UiPanel/Panels/MiniMap.prefab
+- Assets/_Prefabs/UiPanel/Panels/SceneLoadPanel.prefab
+- Assets/_Prefabs/UiPanel/Panels/PlayerDialogPanel.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/17.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/12.prefab
+- Assets/_Prefabs/UiPanel/Panels/LobbyPanel.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/18.prefab
+- Assets/_Prefabs/UiPanel/MiniMap/MiniMapTexture.renderTexture
+- Assets/_Prefabs/UiPanel/Panels/Jc/DialogPanel 1.prefab
+- Assets/_Prefabs/UiPanel/Panels/BagItem.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/2.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/15.prefab
+- Assets/_Prefabs/UiPanel/Panels/FriendsListItem.prefab
+- Assets/_Prefabs/UiPanel/Panels/FriendsListPanel.prefab
+- Assets/_Prefabs/UiPanel/Panels/Jc/StorePanel.prefab
+- Assets/_Prefabs/UiPanel/Panels/3DCanvas.prefab
+- Assets/_Prefabs/UiPanel/Panels/TaskInfoListPanel.prefab
+- Assets/_Prefabs/UiPanel/Panels/BulletinBoardPanel.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/13.prefab
+- Assets/_Prefabs/UiPanel/Panels/GamePanel.prefab
+- Assets/_Prefabs/UiPanel/Panels/Jc/LobbyPanel 1.prefab
+- Assets/_Prefabs/UiPanel/Panels/GoldCountHint.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/16.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/5.prefab
+- Assets/_Prefabs/UiPanel/Panels/MessageBox.prefab
+Dependencies: []

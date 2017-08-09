@@ -1,2 +1,5 @@
 #00000000
 *.json
+genhash.exe
+genhash.exe.config
+genhash.pdb

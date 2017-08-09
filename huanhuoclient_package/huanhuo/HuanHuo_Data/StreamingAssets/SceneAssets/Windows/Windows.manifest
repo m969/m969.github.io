@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3134048869
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: loginscene
+      Dependencies: {}
+    Info_1:
+      Name: mulingcunspace
+      Dependencies: {}
+    Info_2:
+      Name: yunlingzongspace
+      Dependencies: {}

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1389420822
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: player_bundle
+      Dependencies: {}
+    Info_1:
+      Name: monster_bundle
+      Dependencies: {}
+    Info_2:
+      Name: npc_bundle
+      Dependencies: {}
+    Info_3:
+      Name: trigger_bundle
+      Dependencies: {}
+    Info_4:
+      Name: auxiliaryprefabs_bundle
+      Dependencies:
+        Dependency_0: npc_bundle
+    Info_5:
+      Name: uipanel_bundle
+      Dependencies: {}
+    Info_6:
+      Name: effect_bundle
+      Dependencies:
+        Dependency_0: monster_bundle

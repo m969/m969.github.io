@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 2550991751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a48f50ac652fe720a5849a185789203e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 129b9637496fc7e232690607684ff343
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fe306b901f47bc4ebea3014299402be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/DieEffect_mat.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/GiantBat.prefab
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/MuJingGuaiMat.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/Wolf01-14 - Dsadds.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/Wolf01-14 - Defaf.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/Wolf-14 - Defaf.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/stone.fbx
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/Wolf-14 - Dsadds.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/YanShiLingGuai.prefab
+- Assets/_Resources/Ours/_Prefabs/Monster/YanShiLingGuai_01.prefab
+- Assets/_Resources/Ours/_Prefabs/Monster/MuJingGuai.prefab
+- Assets/_Resources/Ours/_Prefabs/Monster/LittleWolf.prefab
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/lambert1.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/MonsterMat.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/Wolf-07 - Default.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/LeavesMat.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/Wolf.prefab
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/DieEffect2_mat.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/LvWuLingGuai.prefab
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/MuJingGuaiEffect.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/Wolf01-07 - Default.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/Materials/RedStoneSoul.mat
+- Assets/_Resources/Ours/_Prefabs/Monster/MuJingGuaiFBX.fbx
+- Assets/_Resources/Ours/_Prefabs/Monster/Wolf01.FBX
+Dependencies: []

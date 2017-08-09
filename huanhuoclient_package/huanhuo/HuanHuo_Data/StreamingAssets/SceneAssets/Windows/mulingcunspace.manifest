@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 3251672349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa56b35c6549e9f337c5e0284ee6dae6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 59bfc2e9113b5856e8b09c8f1df6dc41
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Scenes/MuLingCunSpace/Directional Light.prefab
+- Assets/_Scenes/MuLingCunSpace/Lightmap-0_comp_light.exr
+- Assets/_Scenes/MuLingCunSpace/MainTerrain_MAT.physicMaterial
+- Assets/_Scenes/MuLingCunSpace/co_Tree16_B.prefab
+- Assets/_Scenes/MuLingCunSpace/co_Tree16.prefab
+- Assets/_Scenes/MuLingCunSpace/ReflectionProbe-0.exr
+- Assets/_Scenes/MuLingCunSpace/MainTerrain_DATA.asset
+- Assets/_Scenes/MuLingCunSpace/Cube.prefab
+- Assets/_Scenes/MuLingCunSpace/co_Stone05.prefab
+- Assets/_Scenes/MuLingCunSpace/MainTerrain.prefab
+- Assets/_Scenes/MuLingCunSpace/LightingData.asset
+Dependencies: []
