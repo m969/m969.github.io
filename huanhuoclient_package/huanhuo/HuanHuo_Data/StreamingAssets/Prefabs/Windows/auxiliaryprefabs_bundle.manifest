@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3093850680
+CRC: 2754788508
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f376e46234d4d175986c63b67ea11e60
+    Hash: 907fa6c7b4a62f4af38aa08ee13051fd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 939a21a44ca3a26a81111d298da2b944
+    Hash: 4eeb3d4eb220fda667765a16b263be63
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -55,6 +55,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: c26c7a0dcd8138d4194e0a4435a4740c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59dfbc0f4f3a98b4ebf4ad40fc3f43aa, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 124
@@ -74,10 +76,13 @@ ClassTypes:
 Assets:
 - Assets/_Prefabs/AuxiliaryPrefabs/ClickPointAuxiliary.prefab
 - Assets/_Prefabs/AuxiliaryPrefabs/EasyTouchControlsCanvas.prefab
+- Assets/_Prefabs/AuxiliaryPrefabs/ViewObjectPool.prefab
 - Assets/_Prefabs/AuxiliaryPrefabs/InputManager.prefab
 - Assets/_Prefabs/AuxiliaryPrefabs/EntitySelectManager.prefab
 - Assets/_Prefabs/AuxiliaryPrefabs/SelectObject 1.prefab
 - Assets/_Prefabs/AuxiliaryPrefabs/PlayerTarget.prefab
 - Assets/_Prefabs/AuxiliaryPrefabs/SelectObject.prefab
 Dependencies:
+- F:/Users/Administrator/Documents/Unity Projects/My Projects/huanhuoclient/Assets/AssetBundleGraph/Cache/AssetBundles/072e6e43-97b1-4a18-a0a6-85cf1a411a7f/Windows/avatar_bundle
 - F:/Users/Administrator/Documents/Unity Projects/My Projects/huanhuoclient/Assets/AssetBundleGraph/Cache/AssetBundles/072e6e43-97b1-4a18-a0a6-85cf1a411a7f/Windows/npc_bundle
+- F:/Users/Administrator/Documents/Unity Projects/My Projects/huanhuoclient/Assets/AssetBundleGraph/Cache/AssetBundles/072e6e43-97b1-4a18-a0a6-85cf1a411a7f/Windows/trigger_bundle

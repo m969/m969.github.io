@@ -1,2 +1,224 @@
-gggggg
-ffffff
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\System.Core.dll (this message is harmless)
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DemiLib.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DOTween.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DOTween43.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DOTween46.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DOTween50.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DOTweenPro.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\Ionic.Zlib.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\NSpeex.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\voicechat.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\System.dll (this message is harmless)
+- Completed reload, in  0.957 seconds
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+Platform assembly: F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.328668 ms
+Added pool 'UIPanelPool'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added pool 'AuxiliaryPool'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added pool 'TriggerViewPool'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added pool 'AvatarViewPool'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added pool 'SkillTrajectoryPool'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: ee8 -> priority: 1 
+  Thread -> id: 13ec -> priority: 1 
+clientapp::start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\Mono.Security.dll (this message is harmless)
+OnLoginSuccessfullyEvent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnMainAvatarEnterSpace
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The loaded level has a different lightmaps mode than the current one. Current: Directional. Loaded: Non-Directional. Will use: Directional.
+ 
+(Filename:  Line: 504)
+
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\System.Core.dll (this message is harmless)
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DemiLib.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DOTween.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DOTween43.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DOTween46.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DOTween50.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\DOTweenPro.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\Ionic.Zlib.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\NSpeex.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\voicechat.dll into Unity Child Domain
+Loading F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\System.dll (this message is harmless)
+- Completed reload, in  0.182 seconds
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+Platform assembly: F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.890489 ms
+Added pool 'UIPanelPool'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added pool 'AuxiliaryPool'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added pool 'TriggerViewPool'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added pool 'AvatarViewPool'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added pool 'SkillTrajectoryPool'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1c88 -> priority: 1 
+  Thread -> id: 2e4 -> priority: 1 
+clientapp::start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: F:\Users\Administrator\Documents\Unity Projects\My Projects\huanhuoclient\Builds\HuanHuo_Data\Managed\Mono.Security.dll (this message is harmless)
+OnLoginSuccessfullyEvent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnMainAvatarEnterSpace
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The loaded level has a different lightmaps mode than the current one. Current: Directional. Loaded: Non-Directional. Will use: Directional.
+ 
+(Filename:  Line: 504)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uFrame.MVVM.Services.ViewService.ViewDestroyed (uFrame.MVVM.Events.ViewDestroyedEvent data) [0x0001e] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000b] in <2d5b63e0801f41a89d6ddb4196fec846>:0 
+  at UniRx.Subject`1[T].OnNext (T value) [0x00000] in <2d5b63e0801f41a89d6ddb4196fec846>:0 
+  at uFrame.Kernel.EventManager`1[TEvent].Publish (TEvent evt) [0x0000b] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.EcsEventAggregator.PublishInternal[TEvent] (TEvent evt) [0x00026] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.EcsEventAggregator.Publish[TEvent] (TEvent evt) [0x0001c] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.uFrameComponent.Publish[TEvent] (TEvent eventMessage) [0x00006] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.MVVM.Views.ViewBase.OnDestroy () [0x00085] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+ 
+(Filename: <0f90aff0d55545dbab1cbd96b2ab6bfe> Line: 0)
+
+clientapp::OnDestroy(): begin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+clientapp::OnDestroy(): end
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uFrame.MVVM.Services.ViewService.ViewDestroyed (uFrame.MVVM.Events.ViewDestroyedEvent data) [0x0001e] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000b] in <2d5b63e0801f41a89d6ddb4196fec846>:0 
+  at UniRx.Subject`1[T].OnNext (T value) [0x00000] in <2d5b63e0801f41a89d6ddb4196fec846>:0 
+  at uFrame.Kernel.EventManager`1[TEvent].Publish (TEvent evt) [0x0000b] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.EcsEventAggregator.PublishInternal[TEvent] (TEvent evt) [0x00026] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.EcsEventAggregator.Publish[TEvent] (TEvent evt) [0x0001c] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.uFrameComponent.Publish[TEvent] (TEvent eventMessage) [0x00006] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.MVVM.Views.ViewBase.OnDestroy () [0x00085] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+ 
+(Filename: <0f90aff0d55545dbab1cbd96b2ab6bfe> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uFrame.MVVM.Services.ViewService.ViewDestroyed (uFrame.MVVM.Events.ViewDestroyedEvent data) [0x0001e] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000b] in <2d5b63e0801f41a89d6ddb4196fec846>:0 
+  at UniRx.Subject`1[T].OnNext (T value) [0x00000] in <2d5b63e0801f41a89d6ddb4196fec846>:0 
+  at uFrame.Kernel.EventManager`1[TEvent].Publish (TEvent evt) [0x0000b] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.EcsEventAggregator.PublishInternal[TEvent] (TEvent evt) [0x00026] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.EcsEventAggregator.Publish[TEvent] (TEvent evt) [0x0001c] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.uFrameComponent.Publish[TEvent] (TEvent eventMessage) [0x00006] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.MVVM.Views.ViewBase.OnDestroy () [0x00085] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+ 
+(Filename: <0f90aff0d55545dbab1cbd96b2ab6bfe> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at uFrame.MVVM.Services.ViewService.ViewDestroyed (uFrame.MVVM.Events.ViewDestroyedEvent data) [0x0001e] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000b] in <2d5b63e0801f41a89d6ddb4196fec846>:0 
+  at UniRx.Subject`1[T].OnNext (T value) [0x00000] in <2d5b63e0801f41a89d6ddb4196fec846>:0 
+  at uFrame.Kernel.EventManager`1[TEvent].Publish (TEvent evt) [0x0000b] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.EcsEventAggregator.PublishInternal[TEvent] (TEvent evt) [0x00026] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.EcsEventAggregator.Publish[TEvent] (TEvent evt) [0x0001c] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.Kernel.uFrameComponent.Publish[TEvent] (TEvent eventMessage) [0x00006] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+  at uFrame.MVVM.Views.ViewBase.OnDestroy () [0x00085] in <0f90aff0d55545dbab1cbd96b2ab6bfe>:0 
+ 
+(Filename: <0f90aff0d55545dbab1cbd96b2ab6bfe> Line: 0)
+
+clientapp::OnDestroy(): begin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+clientapp::OnDestroy(): end
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3426799631
+CRC: 3386204859
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 72361a415c14a32300bd95912d617aef
+    Hash: a6874c4255321279a0d6955f313bd5bb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 27ce0815a7d53bc4a81e06e867182739
+    Hash: 7577609ef1f5f9449635897b60e5073c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,6 +26,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: a50e2d212fa1b0345859eabd9b0cd11e, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 504c67813838a584ca5eeed21a37b769, type: 3}
+- Class: 114
   Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
@@ -34,7 +36,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
   Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
@@ -42,9 +48,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
   Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
   Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 853051423, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
@@ -68,9 +80,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
-  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
-- Class: 114
   Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
   Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
 - Class: 114
@@ -80,7 +92,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: d7839a15794d174468c242c9460a796a, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 15801a65c49f16340a8bfe2ff646aef2, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 9d3aa5e58aee45b4fb8be66b7413f544, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3710d9e8844867d43820e8171a6b7652, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 63f795e9a4b6fc443bb5f72fa020073e, type: 3}
 - Class: 114
@@ -91,6 +107,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: e686655b18c94734d9971e3294d2c3bf, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e83933bb52941d8488167e0def1d08fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da0fcbbb45521ec47881c9908ab9358e, type: 3}
 - Class: 114
   Script: {fileID: 40306178, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
 - Class: 114
@@ -149,7 +167,9 @@ Assets:
 - Assets/_Prefabs/UiPanel/GoodsItems/8.prefab
 - Assets/_Prefabs/UiPanel/Panels/BagPanel.prefab
 - Assets/_Prefabs/UiPanel/Panels/MiniMap.prefab
+- Assets/_Prefabs/UiPanel/Panels/CharacterCreatePanel.prefab
 - Assets/_Prefabs/UiPanel/Panels/SceneLoadPanel.prefab
+- Assets/_Prefabs/UiPanel/GoodsItems/GoodsItemPrefab.prefab
 - Assets/_Prefabs/UiPanel/Panels/PlayerDialogPanel.prefab
 - Assets/_Prefabs/UiPanel/GoodsItems/17.prefab
 - Assets/_Prefabs/UiPanel/GoodsItems/12.prefab
@@ -169,6 +189,7 @@ Assets:
 - Assets/_Prefabs/UiPanel/GoodsItems/13.prefab
 - Assets/_Prefabs/UiPanel/Panels/GamePanel.prefab
 - Assets/_Prefabs/UiPanel/Panels/Jc/LobbyPanel 1.prefab
+- Assets/_Prefabs/UiPanel/Panels/RegisterPanel.prefab
 - Assets/_Prefabs/UiPanel/Panels/GoldCountHint.prefab
 - Assets/_Prefabs/UiPanel/GoodsItems/16.prefab
 - Assets/_Prefabs/UiPanel/GoodsItems/5.prefab
